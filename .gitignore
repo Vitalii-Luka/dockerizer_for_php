@@ -1,0 +1,9 @@
+auth.json
+/.env.local
+/.idea/*
+
+/var/*
+!/var/log/
+/var/log/*
+!/var/log/.gitkeep
+/vendor/*
